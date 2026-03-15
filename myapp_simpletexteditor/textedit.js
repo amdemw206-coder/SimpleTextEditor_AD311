@@ -41,6 +41,7 @@ class TextEditor{
 
 const textedit = new TextEditor(); 
 
+// Testing
 textedit.addCharacter("H")
 textedit.addCharacter("i")
 textedit.deleteCharacter()
