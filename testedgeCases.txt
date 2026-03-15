@@ -1,0 +1,11 @@
+// Test Cases: 
+
+// Spelling Basic words using .addCharacter(): Hi | HelloWorld | Amde // Expected Output: "HiHelloWorldAmde"
+
+// Edge Cases: 
+
+// Using .deleteCharacter() method on an empty text property // Expected Output: Error
+
+// Using Numbered Strings with .addCharacter() method // Expected Output: Text doesn't perform math operations, and instead treats them like characters.
+
+// Using .undoCharacter when there ins't anything in the history // Expected output: Error 
